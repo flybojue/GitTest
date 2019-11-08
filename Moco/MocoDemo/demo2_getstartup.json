@@ -1,0 +1,16 @@
+[
+  {
+    "description":"这是个带参数的get请求",
+    "request":{
+      "uri":"/GetWithParameter",
+      "queries":{
+        "name":"lwf",
+        "age":"30"
+      }
+    },
+
+    "response":{
+      "text":"This is response with parameter"
+    }
+  }
+]
